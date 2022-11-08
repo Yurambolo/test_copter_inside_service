@@ -2,7 +2,7 @@ import time
 
 from copter import MyCopter
 
-connection_string = "/dev/ttyS0"
+connection_string = "/dev/ttyS2"
 
 
 def main():
